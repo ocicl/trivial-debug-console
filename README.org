@@ -1,0 +1,10 @@
+* trivial-debug-console
+
+Better console behavior for GUI Lisp apps on Windows
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mtstickney/trivial-debug-console.git   |
+| commit  | 01e5530  |
+| systems | trivial-debug-console |
+|---------+-------------------------------------------|
+
