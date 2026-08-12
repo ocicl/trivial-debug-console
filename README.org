@@ -8,4 +8,4 @@ Better console behavior for GUI Lisp apps on Windows
 | systems | trivial-debug-console |
 |---------+-------------------------------------------|
 
- 
+  
